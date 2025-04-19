@@ -2,7 +2,11 @@
 
 A heartfelt, personalized birthday website crafted with 💖 using Next.js and Tailwind CSS.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+Experience the surprise here: [https://birthday-wishing-flax.vercel.app](https://birthday-wishing-flax.vercel.app)
+
+## ✨ Features
 
 - 🎈 Hero section with responsive background images
 - 📸 Photo booth showcasing cherished memories
@@ -16,5 +20,4 @@ A heartfelt, personalized birthday website crafted with 💖 using Next.js and T
 
 - Node.js (v14 or later)
 - npm or yarn
-
 
