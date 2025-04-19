@@ -17,10 +17,4 @@ A heartfelt, personalized birthday website crafted with 💖 using Next.js and T
 - Node.js (v14 or later)
 - npm or yarn
 
-### Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/janes-birthday-website.git
-   cd janes-birthday-website
